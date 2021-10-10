@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Valeria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Valeria\\.nuget\\packages"
+    ]
+  }
+}

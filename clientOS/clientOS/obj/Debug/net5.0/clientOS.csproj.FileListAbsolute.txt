@@ -1,0 +1,16 @@
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.exe
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.deps.json
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.runtimeconfig.json
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.runtimeconfig.dev.json
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.dll
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\ref\clientOS.dll
+C:\Users\Valeria\source\repos\clientOS\clientOS\bin\Debug\net5.0\clientOS.pdb
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.csproj.AssemblyReference.cache
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.AssemblyInfoInputs.cache
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.AssemblyInfo.cs
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.dll
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\ref\clientOS.dll
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.pdb
+C:\Users\Valeria\source\repos\clientOS\clientOS\obj\Debug\net5.0\clientOS.genruntimeconfig.cache
